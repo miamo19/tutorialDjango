@@ -1,0 +1,2 @@
+# tutorialDjango
+tutorial try djangp
